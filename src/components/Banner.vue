@@ -13,7 +13,7 @@
           Durante mi carrera, he trabajado en diversos proyectos que incluyen desde sitios web empresariales hasta tiendas en línea, enfocándome siempre en crear experiencias de usuario intuitivas y visualmente atractivas. Mi habilidad para adaptarme rápidamente a nuevas tecnologías me permite abordar desafíos diversos y mantenerme al día con las tendencias actuales en diseño y desarrollo web.      </p>
        </div>
        
-      <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1y5VNNMa_riXkiL3pUxFGcYJcITtKeK3-/view" target="_blank"   >Descargar CV </v-btn>
+      <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1HqfTnoA2p_mZD3Is8WqYzqH7iTDPdkxW/view" target="_blank"   >Descargar CV </v-btn>
       <v-btn class="banner-btn  large banner-btn--whatsapp"   round  color="secondary"    outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1200" data-aos-once="true" href="https://api.whatsapp.com/send?phone=51938343796&text=Hola, Wilber" target="_blank" > WhatsApp </v-btn>
       <div class="banner-avatar d-inline-flex py-3 px-4" outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1500"  >
         <div  class="banner-avatar-image" >
