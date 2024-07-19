@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/portafolio-designer/precache-manifest.3dac479172b502fe12c0eb2c82033470.js"
+  "/portafolio-designer/precache-manifest.3b1a9612c4349bcd50e948e5b5d76014.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "portafolio-designer"});
